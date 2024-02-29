@@ -16,8 +16,8 @@
 " alt="doces">
     
     
-        <li>Bolo de chocolate recheado</li>
-        <a href="segunda.html" target="_blank">Horário de segunda-feira dia 26/02</a>
+        <li>Bolo de chocolate</li>
+        <a href="index.html" target="_blank">Passo a passo da receita</a>
     
         <li>Pudim</li>
         <a href="terca.html" target="_blank">Horário de terça-feira dia 27/02</a>
